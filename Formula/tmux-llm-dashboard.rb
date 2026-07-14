@@ -1,8 +1,8 @@
 class TmuxLlmDashboard < Formula
   desc "Nine-row LLM quota + usage dashboard for a tmux pane"
   homepage "https://github.com/mohan-n-swamy/tmux-llm-dashboard"
-  url "https://github.com/mohan-n-swamy/tmux-llm-dashboard/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "f8078c7c3cda9a485050d6a7a5ae905f574c15826a67fdb051d51b659c4096c8"
+  url "https://github.com/mohan-n-swamy/tmux-llm-dashboard/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "c6f26e3505059998effb5c879937ae8bab89ed6c9d2e67b1e5519de67788ecc9"
   license "MIT"
 
   depends_on "tmux"
