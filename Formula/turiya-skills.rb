@@ -2,7 +2,7 @@ class TuriyaSkills < Formula
   desc "Sanitized Claude Code skills from the book Same Starting Line (Turiya Companion Kit)"
   homepage "https://github.com/mohan-n-swamy/turiya-companion-kit"
   url "https://github.com/mohan-n-swamy/turiya-companion-kit/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "67a1e803f22fcb5cce2d712dbaf6fd584a035274b7ed24b1efc3ec2d851d3348"
+  sha256 "4b489b31d17569311ed040bc3204ef87e21d1046b9be8044559968b80b4189c5"
   license "MIT"
 
   def install
