@@ -1,8 +1,8 @@
 class Rigor < Formula
   desc "The Rigor protocol for Claude Code: six answers before the work, evidence before 'done'"
   homepage "https://github.com/mohan-n-swamy/rigor"
-  url "https://github.com/mohan-n-swamy/rigor/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "a6f8f5ec840f5616e5828b63d959f42da50d963e2996ef1d2cf189322655a160"
+  url "https://github.com/mohan-n-swamy/rigor/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "248035111e548a9822d23c73af6fa15121ee9cbdbe668bfd2270989a4c7e0ffd"
   license "MIT"
 
 
