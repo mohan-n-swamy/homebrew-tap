@@ -1,8 +1,8 @@
 class TuriyaSkills < Formula
   desc "Claude Code skills, hooks and a gated build workflow from the book Same Starting Line"
   homepage "https://github.com/mohan-n-swamy/turiya-companion-kit"
-  url "https://github.com/mohan-n-swamy/turiya-companion-kit/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "b021c49bdbac11d6ecac6741828bc2da2e18967ab4100371223279e0a0f83ad5"
+  url "https://github.com/mohan-n-swamy/turiya-companion-kit/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "bdc2a62cfd9270f11c1ac0cf161473758547e2febf0d86ae478206bbee79f566"
   license "MIT"
 
   depends_on "jq"
